@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "lib": ["ES2017"],
+    "module": "esnext",
+    "esModuleInterop": true,
+    "outDir": "",
+    "declarationDir": "",
+    "declaration": true,
+    "sourceMap": true
+  },
+  "include": ["src"]
+}
