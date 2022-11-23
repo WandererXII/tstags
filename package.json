@@ -1,5 +1,5 @@
 {
-  "name": "tstags",
+  "name": "@liskadan/tstags",
   "version": "0.1.0",
   "description": "Simply generate HTML tags",
   "keywords": [

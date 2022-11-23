@@ -1,6 +1,6 @@
 # tsTags: typescript HTML generator
 
-[![npm](https://img.shields.io/npm/v/tstags)](https://www.npmjs.com/package/tstags)
+[![npm](https://img.shields.io/npm/v/@liskadan/tstags)](https://www.npmjs.com/package/@liskadan/tstags)
 
 Simply and quickly generate HTML. No need to write HTML directly.
 
